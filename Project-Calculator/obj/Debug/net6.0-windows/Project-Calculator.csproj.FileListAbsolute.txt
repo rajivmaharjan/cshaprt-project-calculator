@@ -1,0 +1,17 @@
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\bin\Debug\net6.0-windows\Project-Calculator.exe
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\bin\Debug\net6.0-windows\Project-Calculator.deps.json
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\bin\Debug\net6.0-windows\Project-Calculator.runtimeconfig.json
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\bin\Debug\net6.0-windows\Project-Calculator.dll
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\bin\Debug\net6.0-windows\Project-Calculator.pdb
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.csproj.AssemblyReference.cache
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project_Calculator.Form1.resources
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.csproj.GenerateResource.cache
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.AssemblyInfoInputs.cache
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.AssemblyInfo.cs
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.dll
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\refint\Project-Calculator.dll
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.pdb
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\Project-Calculator.genruntimeconfig.cache
+C:\Users\Rajiv Maharjan\source\repos\Project-Calculator\Project-Calculator\obj\Debug\net6.0-windows\ref\Project-Calculator.dll
